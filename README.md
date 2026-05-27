@@ -1,6 +1,6 @@
 # Cześć, tu Kalina! 👋
 
-Pasjonuję się **bazami danych** oraz tworzeniem wydajnych aplikacji bazodanowych. Na co dzień zgłębiam tajniki SQL-a, a na tym profilu chcę dzielić się moimi rozwiązaniami z zakresu analizy danych, automatyzacji i optymalizacji zapytań.
+Jestem studentką III roku informatyki na Politechnice Białostockiej, dla której dane to prawdziwa pasja - uwielbiam pracować z nimi na każdym etapie, od surowych tabel, przez budowę hurtowni i automatyzację przepływów, aż po wizualizacje, które zamieniają liczby w realne wnioski. Na co dzień sięgam po SQL, Pythona, Snowflake, Power BI oraz technologie chmurowe i aktywnie rozwijam swoje kompetencje w obszarze data engineeringu i analityki, szukając środowiska, w którym będę mogła robić to z pełnym zaangażowaniem.
 
 ### Tech Stack
 SQL (Oracle, PostgreSQL) • SQL Procedural Language (PL/SQL, PL/pgSQL) • Python • Technologie chmurowe (GCP, Azure) • Snowflake • Excel • Power BI • Tableau • Github • Git • Jira • Conflunece • Bitbucket
